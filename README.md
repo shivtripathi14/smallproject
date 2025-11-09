@@ -1,2 +1,2 @@
 # small project
-# using by vscode
+Author name SHIV TRIPATHI
